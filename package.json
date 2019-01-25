@@ -1,0 +1,25 @@
+{
+  "name": "promise",
+  "version": "0.0.1",
+  "description": "a simple implement of Promise\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[A",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sea-ice/simple-promise.git"
+  },
+  "keywords": [
+    "Promise"
+  ],
+  "author": "Jack",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sea-ice/simple-promise/issues"
+  },
+  "homepage": "https://github.com/sea-ice/simple-promise#readme",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
